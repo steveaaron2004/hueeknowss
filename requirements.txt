@@ -1,4 +1,4 @@
 flask
 pillow
-os
 colorsis
+os
