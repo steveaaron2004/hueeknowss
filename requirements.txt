@@ -1,4 +1,4 @@
 flask
 pillow
 gunicorn
-your_application
+os
